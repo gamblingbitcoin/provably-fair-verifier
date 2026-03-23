@@ -2,7 +2,7 @@
 
 An open-source tool to independently verify crypto casino game outcomes using the provably fair algorithm.
 
-**[➡️ Use the Live Tool](https://gamblingbitcoin.github.io/provably-fair-verifier/)** | **[📖 Learn How Provably Fair Works](https://gamblingbitcoin.com/provably-fair/)**
+**[➡️ Use the Live Tool](https://gamblingbitcoin.github.io/provably-fair-verifier/)** | **[📖 Learn How Provably Fair Works](https://btcgambling.com/provably-fair/)**
 
 ## What Is Provably Fair?
 
@@ -56,8 +56,8 @@ Each game type uses a different mapping function, but the randomness source is i
 
 ## Resources
 
-- [What Is Provably Fair? — Complete Guide](https://gamblingbitcoin.com/provably-fair/) — Detailed explanation for beginners
-- [Provably Fair Crypto Casinos](https://gamblingbitcoin.com/provably-fair-casino/) — Casinos that implement this system
+- [What Is Provably Fair? — Complete Guide](https://btcgambling.com/provably-fair/) — Detailed explanation for beginners
+- [Provably Fair Crypto Casinos](https://btcgambling.com/provably-fair-casino/) — Casinos that implement this system
 - [HMAC-SHA256 — Wikipedia](https://en.wikipedia.org/wiki/HMAC)
 
 ## Contributing
@@ -70,4 +70,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-Built and maintained by [GamblingBitcoin.com](https://gamblingbitcoin.com) — Independent crypto gambling resource 🇬🇧
+Built and maintained by [BtcGambling.com](https://btcgambling.com) — Independent crypto gambling resource 🇬🇧
