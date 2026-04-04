@@ -67,7 +67,3 @@ Contributions are welcome! If you'd like to add support for another game type or
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-Built and maintained by [BtcGambling.com](https://btcgambling.com) — Independent crypto gambling resource 🇬🇧
